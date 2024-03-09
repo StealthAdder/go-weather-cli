@@ -1,4 +1,4 @@
-# go-weather-api
+# go-weather-cli
 
 Learning go hands on with a simple weather cli app
 ```
